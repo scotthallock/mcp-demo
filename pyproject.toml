@@ -2,7 +2,7 @@
 name = "mcp-demo"
 version = "0.1.0"
 description = ""
-authors = ["Scott Hallock <ZSH4006@conagra.com>"]
+authors = []
 readme = "README.md"
 
 [tool.poetry.dependencies]
